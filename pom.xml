@@ -45,7 +45,7 @@
 	</build>
 	
 	
-<packaging>war</packaging>	
+<packaging>jar</packaging>	
 <profiles>
    <profile>
        <id>jar</id>
